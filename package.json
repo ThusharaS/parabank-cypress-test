@@ -1,0 +1,14 @@
+{
+  "name": "parabank-cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "uitest": "npx cypress run"
+  },
+  "author": "Thushara",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
